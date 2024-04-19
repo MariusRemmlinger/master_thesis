@@ -1,0 +1,7 @@
+# Ignore specific data files
+data_start.csv
+poi_counts_df_250.csv
+poi_counts_df.csv
+
+# Ignore everything in the cache directory
+cache/
