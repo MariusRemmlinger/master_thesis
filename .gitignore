@@ -2,6 +2,7 @@
 data_start.csv
 poi_counts_df_250.csv
 poi_counts_df.csv
+fahrtenverteilung.pdf
 
 # Ignore everything in the cache directory
 cache/
