@@ -10,3 +10,5 @@ choropleth_map.html
 # Ignore everything in the cache directory
 cache/
 ride_duration.pdf
+hourly_rides.pdf
+daily_rides.pdf
